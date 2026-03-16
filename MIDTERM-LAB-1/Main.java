@@ -1,4 +1,5 @@
 /*
+ * Macalam, Camry S.
  * PROGRAMMING 2 – MACHINE PROBLEM
  * University of Perpetual Help System DALTA – Molino Campus
  * BS Information Technology - Game Development
